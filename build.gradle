@@ -1,5 +1,0 @@
-apply plugin:'java' 
-jar{                                          
-baseName'Sample'
-version='1.0'
-}
